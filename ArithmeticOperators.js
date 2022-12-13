@@ -11,3 +11,7 @@
  * Essa é a porcentagem do sol que é composta de hélio.
 
  */
+console.log(20+3.5);
+console.log(2022-1969);
+console.log(65/240);
+console.log(27.08);
